@@ -4,7 +4,9 @@
     align-items: center;
     width: 100%;
     height: 500px;
-    background-color: rgba(84, 76, 148, 0.149);
+    border-bottom: 2px solid white;
+    
+    /* background-color: rgba(84, 76, 148, 0.149); */
 }
 
 
@@ -25,11 +27,11 @@
 }
 
 .containerText h2 {
-    color: black;
+    /* color: black; */
     font-size: 40px;
 }
 
 .containerText p {
     margin-top: 25px;
-    color: black;
+    /* color: black; */
 }

@@ -2,13 +2,13 @@ const Header = () => {
     const headerStyle =  {
         display : "flex",
         justifyContent : "space-between",
-        backgroundColor: "rgba(84, 76, 148, 0.149)",
+        // backgroundColor: "rgba(84, 76, 148, 0.149)",
         padding: '20px',
-        borderBottom : '2px solid black'
+        borderBottom : '2px solid white'
     }
 
     const titleStyle = {
-        color : "black"
+        // color : "black"
     }
 
     const ulStyle = {

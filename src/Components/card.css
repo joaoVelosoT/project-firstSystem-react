@@ -6,8 +6,8 @@
 }
 
 .card {
-    color: black;
-    background-color: rgb(236, 236, 236);
+    color: white;
+    background-color:#363636;
     border-radius: 8px;
     margin-right: 14px;
     width: 100%;
@@ -27,6 +27,6 @@
 }
 
 .card a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
